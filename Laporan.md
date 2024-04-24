@@ -37,6 +37,7 @@ Bagi umkm penambahan jam kerja lebih efektif dibanding penambahan karyawan.
 ![erd](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/6f00c2d4-947b-42d6-a6bc-c2e713ddc77b)
 
 ## Class Diagram
+![uml](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/1027ea11-3a08-42dd-b7a6-cb57de3b7112)
 
 ## Wireframe
 #### Link Wireframe
