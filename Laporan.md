@@ -23,13 +23,6 @@ Aplikasi dapat membantu pengusaha konveksi dalam mencatat keuangan, mengelola st
 #### Menambah jam kerja
 Bagi umkm penambahan jam kerja lebih efektif dibanding penambahan karyawan.
 
-## Aktor
-#### Admin
-Manajemen  Pemesanan
-#### Tailor
-Membuat dan memproses pemesanan
-#### Customer
-Pembeli / Pemesan
 
 ## Usecase
 #### Admin
