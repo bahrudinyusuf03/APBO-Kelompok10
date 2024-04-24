@@ -13,6 +13,16 @@ Pencatatan keuangan masih manual, sehingga rawan terjadi kesalahan dan terlambat
 #### Tidak sesuai deadline
 Customer meminta mempercepat pengerjaan artinya tidak sesuai dengan kesepakatan.
 
+## Solusi
+#### Memudahkan proses pemesanan
+Konsumen dapat memesan pakaian secara online melalui aplikasi, memilih desain, bahan, dan ukuran dengan mudah.
+#### Meningkatkan transparansi
+Konsumen dapat memantau proses pengerjaan secara real-time melalui aplikasi & interaksi dengan jasa konveksi.
+#### Memudahkan pengelolaan keuangan
+Aplikasi dapat membantu pengusaha konveksi dalam mencatat keuangan, mengelola stok bahan baku, dan membuat laporan keuangan.
+#### Menambah jam kerja
+Bagi umkm penambahan jam kerja lebih efektif dibanding penambahan karyawan.
+
 ## Aktor
 #### Admin
 Manajemen  Pemesanan
