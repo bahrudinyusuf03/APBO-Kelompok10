@@ -9,6 +9,9 @@
 #### Customer
 ![use case customer 2](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167953699/003eafd1-c742-4556-ba0f-227a8c89d849)
 ## Data Mentah
+![maret](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167954489/03c50869-ac07-4d71-b1df-f85df1fff80a)
+![februari](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167954489/93863cd6-0eec-43eb-b084-ccbca78cda77)
+![januari](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167954489/b1fd6a4b-970c-46a1-9b3b-c22c76d22a8b)
 
 
 ## Wireframe
