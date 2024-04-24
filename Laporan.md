@@ -32,6 +32,8 @@ Membuat dan memproses pemesanan
 Pembeli / Pemesan
 
 ## Usecase
+#### Admin
+![use case admin](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167953699/05d73bfd-9ada-4947-b444-dec686c21dc3)
 
 ## Data Mentah
 
