@@ -1,5 +1,16 @@
 # Aplikasi Untuk UMKM Konveksi
-
+___
+## Cerita Bisnis
+Jasa konveksi ini berjalan sudah lebih dari 2 tahun. Seiring berjalannya waktu dan orderan yang masuk semakin banyak. Sehingga konveksi ini merasakan adanya kesulitan dalam me manajemen alur kerjanya. Mulai dari menerima barang dari customer, lama pengerjaan barang yang di jahit, menerima bayaran dari customer dan membayar upah para pekerja penjahit. Nah hal itu semua masih di input manual dengan cara di tulis. Seperti per hari dapatnya berapa setelan baju yang telah selesai. Sehingga dapat ditemukan penyelesaian masalahnya dengan cara membantu membuat sistem informasi jasa konveksi. Dengan inovatif ini harapan dapat membantu meningkatkan efisiensi, transparansi, dan daya saing industri konveksi.
+## Kendala
+#### Proses pemesanan manual
+Proses pemesanan masih manual, melalui telepon, email, atau datang langsung ke konveksi. Hal ini memakan waktu dan berpotensi terjadi miskomunikasi.
+#### Kurangnya transparansi
+Konsumen tidak dapat memantau proses pengerjaan secara real-time.
+#### Kesulitan dalam mengelola keuangan
+Pencatatan keuangan masih manual, sehingga rawan terjadi kesalahan dan terlambat dalam pembayaran.
+#### Tidak sesuai deadline
+Customer meminta mempercepat pengerjaan artinya tidak sesuai dengan kesepakatan.
 
 ## Usecase
 #### Admin
