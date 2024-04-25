@@ -1,4 +1,13 @@
 # Aplikasi Untuk UMKM Konveksi
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+<br>
+<h1 align="center">Aplikasi UMKM Konveksi - Kelompok 10</h1>
+<h3 align="center">Beranggotakan:</h3>
+<h3 align="center">Nur Adam Mahfudh - 4522210068  <br>
+Bahrudin Yusuf - 4522210076 <br>
+Ferry Achmad Akbar - 4522210088 <br>
+Agung Sedayu - 4522210100 <br>
+Farhan Ramadhan - 4522210103 </h3> <br>
 ___
 ## Cerita Bisnis
 Jasa konveksi ini berjalan sudah lebih dari 2 tahun. Seiring berjalannya waktu dan orderan yang masuk semakin banyak. Sehingga konveksi ini merasakan adanya kesulitan dalam me-manajemen alur kerjanya. Mulai dari menerima barang dari customer, lama pengerjaan barang yang sedang di jahit, menerima bayaran dari customer dan membayar upah untuk para pekerja penjahit. Nah hal itu semua masih di input manual dengan cara di tulis. Seperti pendapatan perharinya berapa setelan baju yang telah selesai. Sehingga dapat ditemukan penyelesaian masalahnya dengan cara membantu membuat sistem informasi untuk jasa konveksi. Dengan cara inovatif ini harapan dapat membantu meningkatkan efisiensi, transparansi, dan daya saing terhadap industri konveksi lainnya.
