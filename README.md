@@ -39,11 +39,14 @@ Pembeli / Pemesan
 #### Customer
 ![use case customer 2](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167953699/003eafd1-c742-4556-ba0f-227a8c89d849)
 
-## Data Mentah
+## Data Mentah UMKM Penjahit
+### Mengambil 3 Bulan Terakhir
 ### Data Mentah Bulan Maret
 ![maret](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167954489/03c50869-ac07-4d71-b1df-f85df1fff80a)
+
 ### Data Mentah Bulan Februari
 ![februari](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167954489/93863cd6-0eec-43eb-b084-ccbca78cda77)
+
 ### Data Mentah Bulan Januari
 ![januari](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167954489/b1fd6a4b-970c-46a1-9b3b-c22c76d22a8b)
 
@@ -53,7 +56,7 @@ Pembeli / Pemesan
 ## Class Diagram
 ![uml](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/1027ea11-3a08-42dd-b7a6-cb57de3b7112)
 
-## Wireframe
+## Wireframe Aplikasi
 #### Link Wireframe Figma
 https://www.figma.com/file/oYdJmxYLtNmLOefQcugpSB/Logo?type=design&node-id=116%3A2&mode=design&t=9SzPlQhRST776gkv-1
 
